@@ -1,8 +1,8 @@
 [package]
-name = "hello_remote_world"
-version = "0.1.0"
-authors = ["VS Code <vscode@microsoft.com>"]
+name = "trpl"
+version = "0.0.0"
+authors = ["ak2ume <ak2ume@github.com>"]
+edition = "2018"
 
 [lib]
 path ="./src/lib/lib.rs"
-
